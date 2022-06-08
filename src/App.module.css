@@ -1,0 +1,9 @@
+.app {
+  text-align: center;
+  background-color: black;
+}
+
+.app__letter {
+  width: 250px;
+  margin: 75px;
+}

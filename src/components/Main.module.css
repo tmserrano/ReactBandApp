@@ -1,0 +1,12 @@
+.app__main {
+  background-image: url("../../public/images/coldplay_discography.webp");
+  height: 100vh;
+  background-position: center;
+}
+
+.appMain__letter {
+  width: 250px;
+  position: absolute;
+  right: 0;
+  bottom: 75px;
+}
